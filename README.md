@@ -7,4 +7,4 @@ Following are the files in this repo...
    a. Emotion Detection function (3a_output_formatting.png) <br>
    b. Unit testing (5a_unit_testing.png) <br>
    c. server code (6a_server.png) <br>
-2. Screenshots of output
+2. Screenshot of output (6b_deployment_test.png)
