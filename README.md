@@ -1,6 +1,7 @@
 # Emotion-detection-from-text
 
 This project is done as part of the course "Developing AI Applications using Python and Flask" provided by IBM through Coursera. Here, an app is created using Python and Flask which accepts a text string as input and gives the dominant emotion as output. The scores are obtained by accessing IBM Watson Embedded AI library functions. 
+Flask is used to create a REST API..
 
 Following are the files in this repo...
 1. Screenshots of code files <br>
